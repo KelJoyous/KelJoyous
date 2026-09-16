@@ -8,4 +8,4 @@ Im in TAK-26 in Kuressaare ametikool
 
 I want to make a game one day but ill see first where the wind takes me
 
-# Have a nice day!
+### Have a nice day!
