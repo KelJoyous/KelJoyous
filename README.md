@@ -1,8 +1,11 @@
 ## Hi there im Kel
 
-Very beginner coder
+Im a beginner coder living in Estonia
 
-- Mostly busy with school
-- In TAK-26 in Kuressaare ametikool (Sink)
-- Learning the basics still
-- I would like to make my own game one day
+Im mostly busy with school
+
+Im in TAK-26 in Kuressaare ametikool
+
+I want to make a game one day but ill see first where the wind takes me
+
+# Have a nice day!
